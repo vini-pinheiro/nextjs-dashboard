@@ -1,8 +1,6 @@
 # Acme Financial Dashboard - by Next.js
 
-Este é um curso de Fundamentos Next.js! 
-Neste curso interativo gratuito, eu aprenderei as principais funcionalidades do Next.js construindo uma aplicação web full-stack.
-Para este curso, irei construir um painel financeiro que possui:
+Este é um [curso de Fundamentos Next.js](https://nextjs.org/learn), eu aprenderei as principais funcionalidades do Next.js construindo uma aplicação web full-stack. Para este curso, irei construir um painel financeiro que possui:
 
 1. Uma página inicial pública;
 2. Uma página de login;
@@ -26,6 +24,7 @@ Aqui está uma visão geral das funcionalidades que irei aprender neste curso:
 - Metadados: Como adicionar metadados e preparar sua aplicação para compartilhamento social.
 
 ## Requisitos do sistema
+
 Certifique-se de que seu sistema atenda aos seguintes requisitos:
 
 - Node.js 20.9 ou posteriores instalados.

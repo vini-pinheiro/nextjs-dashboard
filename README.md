@@ -1,6 +1,6 @@
 # Acme Financial Dashboard - by Next.js
 
-Este é um [curso de Fundamentos Next.js](https://nextjs.org/learn), eu aprenderei as principais funcionalidades do Next.js construindo uma aplicação web full-stack. Para este curso, irei construir um painel financeiro que possui:
+Este é um [curso de Fundamentos Next.js](https://nextjs.org/learn/dashboard-app), onde devo aprender as principais funcionalidades do framework através de uma aplicação web full-stack de painel financeiro, que consiste em:
 
 1. Uma página inicial pública;
 2. Uma página de login;
@@ -8,9 +8,13 @@ Este é um [curso de Fundamentos Next.js](https://nextjs.org/learn), eu aprender
 4. A capacidade dos usuários de adicionar, editar e excluir faturas;
 5. O painel também terá um banco de dados complementar.
 
+## O Meu Objetivo
+
+Ao fazer o curso.dev do Filipe Deschamps, entrei em contato com o framework Next.js e isso despertou uma curiosidade em saber como o Next.js funciona. E espero que ao finalizar este tutorial, ser capaz de entender os fundamentos do Next.js e construir aplicações full-stack com confiança.
+
 ## Visão geral
 
-Aqui está uma visão geral das funcionalidades que irei aprender neste curso:
+Aqui está uma visão geral do que é abordado:
 
 - Estilo: As diferentes formas de estilizar sua aplicação em Next.js.
 - Otimizações: Como otimizar imagens, links e fontes.
@@ -28,3 +32,4 @@ Aqui está uma visão geral das funcionalidades que irei aprender neste curso:
 Certifique-se de que seu sistema atenda aos seguintes requisitos:
 
 - Node.js 20.9 ou posteriores instalados.
+
